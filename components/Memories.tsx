@@ -6,7 +6,7 @@ import ImageFrame from "./ui/ImageFrame";
 import SectionLabel from "./ui/SectionLabel";
 
 const photos = [
-  "/media/memory-01.jpg",
+  "/media/memory-01.jpeg",
   "/media/memory-02.jpg",
   "/media/memory-03.jpg",
 ];

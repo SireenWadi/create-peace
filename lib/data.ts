@@ -50,7 +50,7 @@ export const trainers = [
   { name: "IDA", role: "Trainer" },
   { name: "JENNA", role: "Facilitator" },
   { name: "ISA", role: "Facilitator" },
-  { name: "JADWIG", role: "Facilitator" },
+  { name: "JADWIGA", role: "Facilitator" },
 ];
 
 export const fieldResults = [

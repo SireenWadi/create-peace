@@ -6,7 +6,7 @@ import ImageFrame from "./ui/ImageFrame";
 import SectionLabel from "./ui/SectionLabel";
 
 const photos = [
-  { src: "/media/group-01.jpeg", cls: "col-span-2 row-span-2" },
+  { src: "/media/group-00.jpeg", cls: "col-span-2 row-span-2" },
   { src: "/media/group-02.jpeg", cls: "" },
   { src: "/media/group-03.jpeg", cls: "" },
   { src: "/media/group-04.jpeg", cls: "" },
